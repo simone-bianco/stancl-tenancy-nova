@@ -1,0 +1,21 @@
+{
+    "name": "simone-bianco/stancl-tenancy-nova",
+    "description": "Integra stancl-tenancy con laravel nova",
+    "type": "library",
+    "require": {
+        "stancl/tenancy": "^3.7",
+		"laravel/nova": "^4.0"
+    },
+    "license": "Simone Bianco. Tutti i diritti sono riservati.",
+    "autoload": {
+        "psr-4": {
+            "SimoneBianco\\StanclTenancyNova\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simone Bianco",
+            "email": "simone9292@live.com"
+        }
+    ]
+}
