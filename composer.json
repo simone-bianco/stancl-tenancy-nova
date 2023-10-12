@@ -6,7 +6,7 @@
         "stancl/tenancy": "^3.7",
 		"laravel/nova": "^4.0"
     },
-    "license": "Simone Bianco. Tutti i diritti sono riservati.",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "SimoneBianco\\StanclTenancyNova\\": "src/"
